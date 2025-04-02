@@ -1,0 +1,11 @@
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe.config
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.pdb
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.AssemblyReference.cache
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Form1.resources
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Properties.Resources.resources
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.GenerateResource.cache
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.CoreCompileInputs.cache
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.exe
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.pdb
+D:\Programação\c#\udemy\Projetos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.FormLogin.resources
